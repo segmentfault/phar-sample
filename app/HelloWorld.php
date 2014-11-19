@@ -4,7 +4,7 @@ class HelloWorld extends MyLib
 {
     public function __construct()
     {
-        echo 'Hello World!';
+        echo "Hello World!\n";
     }
 }
 
